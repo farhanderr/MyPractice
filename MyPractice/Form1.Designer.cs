@@ -275,11 +275,11 @@
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(461, 63);
+            this.label11.Location = new System.Drawing.Point(370, 23);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(38, 13);
+            this.label11.Size = new System.Drawing.Size(133, 13);
             this.label11.TabIndex = 46;
-            this.label11.Text = "Jennie";
+            this.label11.Text = "HAN GUA NAMBAHIN INI";
             // 
             // Form1
             // 

@@ -31,5 +31,10 @@ namespace MyPractice
                 MessageBox.Show("Password Error");
             }
         }
+
+        private void txtUser_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

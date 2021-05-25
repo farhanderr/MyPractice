@@ -48,10 +48,11 @@
             // 
             // txtUser
             // 
-            this.txtUser.Location = new System.Drawing.Point(243, 164);
+            this.txtUser.Location = new System.Drawing.Point(243, 185);
             this.txtUser.Name = "txtUser";
             this.txtUser.Size = new System.Drawing.Size(100, 20);
             this.txtUser.TabIndex = 10;
+            this.txtUser.TextChanged += new System.EventHandler(this.txtUser_TextChanged);
             // 
             // txtPass
             // 
